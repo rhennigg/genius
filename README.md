@@ -1,5 +1,4 @@
 # genius
-Developing a Genius game with HTML, CSS and JS.
 
 Projeto Genius desenvolvido para o bootcamp DIO Órbi Web Games Developer.
 
